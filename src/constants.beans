@@ -1,0 +1,5 @@
+# io.edithub.constants
+
+printVersion = ->
+  alert "BeanScript 1.0"
+  true
