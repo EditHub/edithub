@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  text-align: center;
+  color: white;
+  background-color: #282828;
+}
